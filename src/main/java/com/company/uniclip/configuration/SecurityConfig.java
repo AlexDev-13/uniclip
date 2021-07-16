@@ -1,4 +1,4 @@
-package com.company.uniclip.backend.configuration;
+package com.company.uniclip.configuration;
 
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;

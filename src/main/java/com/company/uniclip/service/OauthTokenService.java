@@ -1,6 +1,6 @@
-package com.company.uniclip.backend.service;
+package com.company.uniclip.service;
 
-import com.company.uniclip.backend.dto.OauthResponse;
+import com.company.uniclip.dto.OauthResponse;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.*;
 import org.springframework.stereotype.Service;

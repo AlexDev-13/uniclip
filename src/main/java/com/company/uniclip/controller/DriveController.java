@@ -1,12 +1,11 @@
-package com.company.uniclip.backend.controller;
+package com.company.uniclip.controller;
 
-import com.company.uniclip.backend.dto.*;
-import com.company.uniclip.backend.enums.SessionKey;
-import com.company.uniclip.backend.exception.AccessDeniedException;
-import com.company.uniclip.backend.service.GoogleDriveService;
-import org.springframework.stereotype.Controller;
+import com.company.uniclip.dto.*;
+import com.company.uniclip.enums.SessionKey;
+import com.company.uniclip.exception.AccessDeniedException;
+import com.company.uniclip.service.GoogleDriveService;
+import com.company.uniclip.dto.*;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.servlet.http.HttpSession;

@@ -1,4 +1,4 @@
-package com.company.uniclip.backend.configuration;
+package com.company.uniclip.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

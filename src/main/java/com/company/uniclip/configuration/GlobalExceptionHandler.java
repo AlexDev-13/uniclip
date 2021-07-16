@@ -1,6 +1,6 @@
-package com.company.uniclip.backend.configuration;
+package com.company.uniclip.configuration;
 
-import com.company.uniclip.backend.exception.AccessDeniedException;
+import com.company.uniclip.exception.AccessDeniedException;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;

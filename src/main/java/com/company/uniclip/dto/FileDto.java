@@ -1,4 +1,4 @@
-package com.company.uniclip.backend.dto;
+package com.company.uniclip.dto;
 
 import lombok.Data;
 

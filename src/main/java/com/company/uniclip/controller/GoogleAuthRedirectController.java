@@ -1,8 +1,8 @@
-package com.company.uniclip.backend.controller;
+package com.company.uniclip.controller;
 
-import com.company.uniclip.backend.enums.SessionKey;
-import com.company.uniclip.backend.exception.AccessDeniedException;
-import com.company.uniclip.backend.service.OauthTokenService;
+import com.company.uniclip.enums.SessionKey;
+import com.company.uniclip.exception.AccessDeniedException;
+import com.company.uniclip.service.OauthTokenService;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 

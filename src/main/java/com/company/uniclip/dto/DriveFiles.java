@@ -1,5 +1,4 @@
-package com.company.uniclip.backend.dto;
-
+package com.company.uniclip.dto;
 
 import lombok.Data;
 import lombok.ToString;
@@ -9,9 +8,9 @@ import java.util.List;
 
 @Data
 @ToString
-public class PhotoFiles implements Serializable {
+public class DriveFiles implements Serializable {
     private String kind;
     private String nextPageToken;
     private String incompleteSearch;
-    private List<PFile> mediaItems;
+    private List<File> files;
 }

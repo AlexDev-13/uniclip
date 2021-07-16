@@ -16,13 +16,13 @@ plugins {
     id 'java'
 }
 
-group = 'com.company.uniclip'
+group = 'com.company'
 sourceCompatibility = 11
 targetCompatibility = 11
 
 apply plugin: 'application'
 
-mainClassName = 'com.company.uniclip.backend.UniclipBackendApplication.java'
+mainClassName = 'com.company.uniclip.UniclipBackendApplication'
 
 configurations {
     compileOnly {

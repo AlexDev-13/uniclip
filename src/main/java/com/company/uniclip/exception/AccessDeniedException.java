@@ -1,4 +1,4 @@
-package com.company.uniclip.backend.exception;
+package com.company.uniclip.exception;
 
 public class AccessDeniedException extends RuntimeException {
     public AccessDeniedException(String message)  {

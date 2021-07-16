@@ -1,8 +1,8 @@
-package com.company.uniclip.backend.service;
+package com.company.uniclip.service;
 
-import com.company.uniclip.backend.dto.DriveFiles;
-import com.company.uniclip.backend.dto.File;
-import com.company.uniclip.backend.dto.PhotoFiles;
+import com.company.uniclip.dto.DriveFiles;
+import com.company.uniclip.dto.File;
+import com.company.uniclip.dto.PhotoFiles;
 import com.google.gson.Gson;
 import org.springframework.http.*;
 import org.springframework.http.converter.json.MappingJackson2HttpMessageConverter;

@@ -1,4 +1,4 @@
-package com.company.uniclip.backend;
+package com.company.uniclip;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

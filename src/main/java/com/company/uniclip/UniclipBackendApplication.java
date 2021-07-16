@@ -1,4 +1,4 @@
-package com.company.uniclip.backend;
+package com.company.uniclip;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

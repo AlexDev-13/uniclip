@@ -1,4 +1,4 @@
-package com.company.uniclip.backend.controller;
+package com.company.uniclip.controller;
 
 import org.springframework.core.ResolvableType;
 import org.springframework.http.HttpEntity;

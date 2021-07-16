@@ -1,4 +1,4 @@
-package com.company.uniclip.backend.controller;
+package com.company.uniclip.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
